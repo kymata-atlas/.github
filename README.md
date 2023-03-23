@@ -1,3 +1,3 @@
-# The Kymata Atlas Github Repositories
+# .github
 
-The home of codebases related to the Kymata Atlas, including the [Kymata Toolbox](https://github.com/kymata-atlas/kymata-toolbox) and [first-party generated](https://github.com/kymata-atlas/KHG-functions) and [third-party](https://github.com/kymata-atlas/third-party-functions) neural hypothises.
+A special repository where we can add a README.md to the public organization profile, visible to anyone.
